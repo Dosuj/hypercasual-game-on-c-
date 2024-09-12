@@ -25,7 +25,7 @@
 Оптимизировать игру для разных устройств;
 Реализовать поддержку новых платформ.
 
-# https://games.yandex.ru/console/application/361089?new=true#application-panel
+# https://yandex.ru/games/app/361089?lang=ru
 # Если у вас есть вопросы или предложения по проекту, не стесняйтесь обращаться!
 
 
